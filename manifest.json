@@ -1,0 +1,15 @@
+{
+    "name": "open github",
+    "version": "1.0.0",
+    "description": "Open github on a click",
+    "manifest_version": 3,
+    "author": "deep-vinci",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "open github"
+    },
+    "icons": {
+        "48": "images/image.png"
+    }
+    
+}
